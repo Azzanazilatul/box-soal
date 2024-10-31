@@ -1,0 +1,27 @@
+
+.satu {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #9b59b6;
+    top: 0;
+    left: 0;
+}
+
+.dua{
+    background-color: aqua;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 30px;
+    left: 0;
+}
+
+.tiga{
+    background-color: rgb(128, 129, 117);
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 60px;
+    left: 0;
+}
